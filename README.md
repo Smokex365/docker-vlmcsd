@@ -1,3 +1,7 @@
+Modified slightly to work on ARM platforms.
+
+===========================================================
+
 # vlmcsd is a replacement for Microsoft's KMS server.
 
 > It contains vlmcs, a KMS test client, mainly for debugging purposes, that also can "charge" a genuine KMS server designed to run on an always-on or often-on device, e.g. router, NAS Box, ...intended to help people who lost activation of their legally-owned licenses, e.g. due to a change of hardware (motherboard, CPU, ...)
